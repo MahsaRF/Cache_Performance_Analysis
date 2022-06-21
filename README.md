@@ -1,5 +1,5 @@
 # Cache_Performance_Analysis
-Cache performance analysis for different sort algorithms using PAPI library present in C, Spring 2020
+Cache performance analysis for different sort algorithms using PAPI library in C, Spring 2020
 
 •	Analyzed the behavior of different sorting algorithms for input array with different sizes by providing the data cache performance parameters, branch misprediction rate and execution time measurements
 
